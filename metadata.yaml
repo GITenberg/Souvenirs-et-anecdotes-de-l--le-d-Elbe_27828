@@ -1,0 +1,41 @@
+_repo: Souvenirs-et-anecdotes-de-l--le-d-Elbe_27828
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pons de l'Hérault, André
+    aliases:
+    - Pons de l'Herault, Andre
+    - L'Hérault, André Pons de
+    birthdate: 1772
+    deathdate: 1853
+    gutenberg_agent_id: '32932'
+    url: http://www.gutenberg.org/2009/agents/32932
+  editor:
+    agent_name: Pélissier, Léon-G.
+    aliases:
+    - Pelissier, Leon-G.
+    - Pélissier, Léon Gabriel Jean Baptiste Marie
+    birthdate: 1863
+    deathdate: 1912
+    gutenberg_agent_id: '32945'
+    url: http://www.gutenberg.org/2009/agents/32945
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27828'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Elba and the Hundred Days,
+  1814-1815'
+- !lcc 'DC'
+title: Souvenirs et anecdotes de l'île d'Elbe
+url: http://www.gutenberg.org/ebooks/27828
